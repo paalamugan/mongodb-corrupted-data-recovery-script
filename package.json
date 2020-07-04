@@ -1,0 +1,21 @@
+{
+  "name": "recovery-mongodb-script",
+  "version": "1.0.0",
+  "description": "Recovering a WiredTiger collection from a corrupt MongoDB installation",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "paala mugan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "mongoose": "^5.9.20",
+    "yargs": "^15.3.1"
+  },
+  "engine": {
+    "node": "10.19.0",
+    "npm": "6.14.4"
+  }
+}
