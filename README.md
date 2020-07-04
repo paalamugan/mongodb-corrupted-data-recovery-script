@@ -3,7 +3,7 @@ Recovering a WiredTiger collection from a corrupt MongoDB installation
 
 ## Get Started
 
-*Important Note*
+**Important Note**
 
 `Only supported in linux operator. We refer to you to use ubuntu`.
 
