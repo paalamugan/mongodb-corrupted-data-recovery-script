@@ -54,7 +54,7 @@ In that dblists argument, You give values for string array of object.for example
 - It stands for,
     - dbCode - Database code,(String)(Mandatory)
     - dbName - Database name,(String)(Optional)
-    - collections: { key - Collection code: value - Collection name }(Object)(Optional)
+    - collections: { key - Collection code, value - Collection name }(Object)(Optional)
 
 
 - If you want to know more information, use
