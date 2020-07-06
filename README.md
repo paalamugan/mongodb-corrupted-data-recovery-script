@@ -5,7 +5,7 @@ Recovering a WiredTiger collection from a corrupt MongoDB installation
 
 **Important Note**
 
-`Only supported in linux operator. We refer to you to use ubuntu`.
+`Only supported in linux operator. We recommend to you to use ubuntu`.
 
 ### Node Engine
 
