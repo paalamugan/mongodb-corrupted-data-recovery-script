@@ -12,7 +12,8 @@
   "dependencies": {
     "async": "^3.2.0",
     "mongoose": "^5.9.20",
-    "yargs": "^15.3.1"
+    "yargs": "^15.3.1",
+    "lodash": "^4.17.15"
   },
   "engine": {
     "node": "10.19.0",
